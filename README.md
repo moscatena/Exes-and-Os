@@ -1,6 +1,6 @@
 # TicTacToe
 
-<img src="./images/TicTacToe.PNG" alt="TicTacToe game" height="250"/>
+<img src="./images/TicTacToe.png" alt="TicTacToe game" height="250"/>
 
 This repository contains my explorations trying to build a Tic Tac Toe game.
 
